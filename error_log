@@ -1,0 +1,1 @@
+[15-Jul-2021 17:25:25 Asia/Kolkata] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/tgcindi/public_html/adwords/ui-ux-2021/contact-model.php on line 38
